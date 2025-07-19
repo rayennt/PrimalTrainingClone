@@ -537,4 +537,7 @@ footer p{
     margin-top: 150px;
     margin-bottom: 20px;
   }
+  .join-container a {
+  color: inherit;
+}
 }
